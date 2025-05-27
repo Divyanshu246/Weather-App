@@ -198,4 +198,3 @@ If you have any questions or run into issues, please open an issue on GitHub or 
 ---
 
 **Note:** Make sure to keep your API key secure and never commit it to version control. Always use environment variables for sensitive information.
-# Weather-App
